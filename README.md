@@ -9,7 +9,7 @@ To install other requirements:
 ```
 $ pip install -r requirements.txt
 ```
-# Run VK-OOD-ViLT
+# Run VKOOD-ViLT
 
 ## Pre-train:
 ```
@@ -29,7 +29,7 @@ $ python vkood_vilt/train_vilt.py data_root=/dataset/vqa num_gpus=8 num_nodes=1 
 ```
 To get test-dev and test-std results, submit result json file /results/vqa_submit_ckpt.json to [eval.ai](https://eval.ai/challenge/830/overview).
 
-# Run VK-OOD-BLIP
+# Run VKOOD-BLIP
 
 ## Fine-tune:
 ```
