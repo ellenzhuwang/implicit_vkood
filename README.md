@@ -1,3 +1,14 @@
+# VK-OOD: Implicit Differentiable Outlier Detection Enable Robust Deep Multimodal Analysis
+This is official code for the paper Implicit Differentiable Outlier Detection Enable Robust Deep Multimodal Analysis (NeurIPS23). 
+
+Authors: [Zhu Wang](https://ellenzhuwang.github.io), [Sourav Medya](https://souravmedya.github.io), [Sathya N. Ravi](https://sathya-uic.github.io)
+
+# VK-OOD overview
+Deep network models are often purely inductive during both training and inference on unseen data. When these models are used for prediction, but they often fail to capture important semantic information and implicit dependencies within datasets. Recent advancements have shown that combining multiple modalities in large-scale vision and language settings can improve understanding and generalization performance. However, as the model size increases, fine-tuning and deployment become computationally expensive, even for a small number of downstream tasks. Moreover, it is still unclear how domain or prior modal knowledge can be specified in a backpropagation friendly manner, especially in large-scale and noisy settings. To address these challenges, we propose a simplified alternative of combining features from pretrained deep networks and freely available semantic explicit knowledge. In order to remove irrelevant explicit knowledge that does not correspond well to images, we introduce a {\em implicit Differentiable} Out-of-Distribution (OOD) detection layer. This layer addresses outlier detection by solving for fixed points of a differentiable function and using the last iterate of fixed point solver to backpropagate. In practice, we apply our model on several vision and language downstream tasks including visual question answering, visual reasoning, and image-text retrieval on different datasets. Our experiments show that it is possible to design models that perform similarly to state-of-art results but with significantly fewer samples and less training time.
+
+<img width="1893" alt="pipeline2" src="https://github.com/ellenzhuwang/implicit_vkood/assets/10067151/9bdd6449-38d8-4269-9382-0dcc3395c561">
+
+
 # Install
 
 To create a conda enviroment:
