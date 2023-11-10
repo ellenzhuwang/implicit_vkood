@@ -1,11 +1,11 @@
 # VK-OOD: Implicit Differentiable Outlier Detection Enable Robust Deep Multimodal Analysis :star_struck:
 
-This is official code for the paper Implicit Differentiable Outlier Detection Enable Robust Deep Multimodal Analysis (NeurIPS23). [arXiv](https://arxiv.org/abs/2302.05608)
+This is official code for the paper Implicit Differentiable Outlier Detection Enable Robust Deep Multimodal Analysis (NeurIPS23). [OpenReview](https://openreview.net/pdf?id=jooPcatnVF)
 
 Authors: [Zhu Wang](https://ellenzhuwang.github.io), [Sourav Medya](https://souravmedya.github.io), [Sathya N. Ravi](https://sathya-uic.github.io)
 
 ## Citation
-If you find this project useful, please cite
+If you find this project useful, please give us a star and cite
 
 ```
 @inproceedings{wang2023implicit,
