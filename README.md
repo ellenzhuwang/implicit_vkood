@@ -4,6 +4,14 @@ This is official code for the paper Implicit Differentiable Outlier Detection En
 
 Authors: [Zhu Wang](https://ellenzhuwang.github.io), [Sourav Medya](https://souravmedya.github.io), [Sathya N. Ravi](https://sathya-uic.github.io)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/implicit-differentiable-outlier-detection/visual-reasoning-on-nlvr2-dev)](https://paperswithcode.com/sota/visual-reasoning-on-nlvr2-dev?p=implicit-differentiable-outlier-detection)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/implicit-differentiable-outlier-detection/cross-modal-retrieval-on-coco-2014)](https://paperswithcode.com/sota/cross-modal-retrieval-on-coco-2014?p=implicit-differentiable-outlier-detection)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/implicit-differentiable-outlier-detection/zero-shot-cross-modal-retrieval-on-flickr30k)](https://paperswithcode.com/sota/zero-shot-cross-modal-retrieval-on-flickr30k?p=implicit-differentiable-outlier-detection)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/implicit-differentiable-outlier-detection/visual-question-answering-on-ok-vqa)](https://paperswithcode.com/sota/visual-question-answering-on-ok-vqa?p=implicit-differentiable-outlier-detection)
+
 ## Citation
 If you find this project useful, please give us a star and cite
 
